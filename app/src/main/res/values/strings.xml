@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">AndroidVolley</string>
+    <string name="api_url">https://658d0a757c48dce947386405.mockapi.io</string>
+</resources>
